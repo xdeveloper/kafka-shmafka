@@ -1,4 +1,4 @@
-# kafka-shmafka
+# Kafka Shmafka
 
 - List topics 
 - Read / create messages
